@@ -345,3 +345,15 @@ void loop() {
     Serial.println("disconnected.");
   }
 }
+
+
+1.	Ethernet library, Arduino Reference
+https://www.arduino.cc/en/reference/ethernet
+2.	Arduino Client for MQTT - API Documentation
+https://pubsubclient.knolleary.net/api.html#PubSubClient
+3.	Forum Arduino - Topic: Timer1 and millis conflicts
+https://forum.arduino.cc/index.php?topic=544924.0 
+4.	Flutter: Create an MQTT app (23 nov 2019)
+https://www.youtube.com/watch?v=9d8s3zFTPCM
+5.	flutter_mqtt_app
+https://github.com/anoop4real/Flutter_MQTT 
